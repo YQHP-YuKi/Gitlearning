@@ -1,2 +1,5 @@
 update count = 1
-i don't want to change in master
+<<<<<<< HEAD
+=======
+add count = 2 in dev01,and merge in master
+>>>>>>> dev01
